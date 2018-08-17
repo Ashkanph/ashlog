@@ -1,4 +1,4 @@
-A personalize logger for Golang using the log package.
+A personalized logger for Golang using the log package.
 
 ## Features
 * Can accept an array of io.Writer to log in (see [the example part](#example))
